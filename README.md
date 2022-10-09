@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/LorenzoDv/parallax/img/para.PNG">
+<img src="https://github.com/LorenzoDv/parallax/blob/main/img/para.PNG" width = "500">
